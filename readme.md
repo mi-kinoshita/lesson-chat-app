@@ -27,10 +27,10 @@
 
 ## 🛠️ 技術スタック
 
-**フレームワーク** React Native, TypeScript
-**バックエンド** Supabase
-**AI/ML** Supabase Edge Functions
-**課金管理** RevenueCat
+- **フレームワーク** React Native, TypeScript
+- **バックエンド** Supabase
+- **AI/ML** Supabase Edge Functions
+- **課金管理** RevenueCat
 
 ---
 
