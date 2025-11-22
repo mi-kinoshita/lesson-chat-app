@@ -30,6 +30,6 @@
 
 ## 🚀 アプリストアでダウンロード
 
-- 📱 (App Store)[https://apps.apple.com/us/app/lunatalk-ai-japanese-chat-app/id67447158099]
-- 🤖 (Google Play)[https://play.google.com/store/apps/details?id=com.miadesign.lunaTalk&pli=1]
-- 💻 (Portfolio)[https://mia-design-studio.work/projects/lunatalk-app]
+- 📱 [App Store](https://apps.apple.com/us/app/lunatalk-ai-japanese-chat-app/id67447158099)
+- 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.miadesign.lunaTalk&pli=1)
+- 💻 [Portfolio](https://mia-design-studio.work/projects/lunatalk-app)
