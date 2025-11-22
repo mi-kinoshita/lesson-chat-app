@@ -28,7 +28,7 @@
 - **AI/ML** Supabase Edge Functions
 - **課金管理** RevenueCat
 
-## 🚀 アプリストアでダウンロード
+## 🚀 アプリストアとポートフォリオ
 
 - 📱 [App Store](https://apps.apple.com/us/app/lunatalk-ai-japanese-chat-app/id6744715809)
 - 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.miadesign.lunaTalk&pli=1)
