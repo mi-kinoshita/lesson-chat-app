@@ -1,25 +1,15 @@
-# 🇯🇵 AI キャラクターとの日本語チャットアプリ
+# 🇯🇵 AI セルフヘルプアプリ
 
 ![mock image](assets/images/lunatalk-cover.png)
 
-英語圏の学習者に向けて、AI キャラクターとの楽しいチャットを通じて自然な日本語の会話力と語彙を習得できるように設計されたモバイルアプリケーションです。
+ユーザーの日常的なメンタルウェルネスとセルフケアをサポートするために設計されたモバイルアプリケーションです。
+感情の記録、気分転換のためのパーソナライズされたアクティビティ提案、そして継続的な改善を促すインサイトを提供することで、ユーザーが日々の自己管理を簡単かつ効果的に行えるようにします。
 
 ## ✨ アプリケーションの主要機能
 
-### 🗣️ 会話と学習
-
-- **AI フリートーク**: Supabase Edge Functions を経由して LLM を実行し、ユーザーのレベルと興味に合わせたパーソナライズされた日本語会話を提供します。
-- **文法/語彙解説**: 会話中の新しい単語や文法表現について、英語で即座に分かりやすい解説を表示します。
-- **楽しいキャラクター**: AI キャラクターとの対話を通じて、モチベーションを維持します。
-
-### ⚙️ 技術とデータ
-
-- **データ管理**: Supabase のデータベースに、選択した日本語の難易度と語彙を保存します。
-- **クロスプラットフォーム**: React Native により、iOS および Android デバイスの両方でネイティブな体験を提供します。
-
-### 💳 サブスクリプション
-
-- **RevenueCat 統合**: プレミアム機能（無制限のチャット）の購読処理を管理し、安定した収益基盤を提供します。
+- **パーソナライズされた AI コーチング:** ユーザーの入力や傾向に基づいて、最適なセルフケア戦略を提案します。
+- **感情ジャーナリング:** 毎日の気分を簡単に記録し、時間経過に伴う心の状態の変化を視覚化します。
+- **安全なデータ管理:** ユーザーのプライバシーを最優先し、全てのデータはローカルストレージに管理され、開発者から見えないようになっています。
 
 ## 🛠️ 技術スタック
 
@@ -30,6 +20,6 @@
 
 ## 🚀 アプリストアとポートフォリオ
 
-- 📱 [App Store](https://apps.apple.com/us/app/lunatalk-ai-japanese-chat-app/id6744715809)
-- 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.miadesign.lunaTalk&pli=1)
-- 💻 [Portfolio](https://mia-design-studio.work/projects/lunatalk-app)
+- 📱 [App Store](https://apps.apple.com/us/app/prism-self-care-ai/id6747229609)
+- 🤖 [Google Play](https://play.google.com/store/apps/details?id=com.miadesignstudio.prythme)
+- 💻 [Portfolio](https://mia-design-studio.work/projects/prism-app)
