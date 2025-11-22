@@ -38,5 +38,12 @@
 
 ![pr image](assets/images/lunatalk-pr.png)
 
-**Apple App Store** [![Download on the App Store](https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)](https://apps.apple.com/us/app/lunatalk-ai-japanese-chat-app/id6744715809)
-**Google Play** [![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.miadesign.lunaTalk&pli=1)
+<div align="center">
+  <a href="https://apps.apple.com/us/app/lunatalk-ai-japanese-chat-app/id6744715809">
+    <img src="https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Download on the App Store" height="40">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.miadesign.lunaTalk&pli=1">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="40">
+  </a>
+</div>
