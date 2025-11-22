@@ -27,16 +27,16 @@
 
 ## 🛠️ 技術スタック
 
-**フレームワーク** React Native, TypeScript
-**バックエンド** Supabase
-**AI/ML** Supabase Edge Functions
-**課金管理** RevenueCat
+- **フレームワーク** React Native, TypeScript
+- **バックエンド** Supabase
+- **AI/ML** Supabase Edge Functions
+- **課金管理** RevenueCat
 
 ---
 
-## アプリストア
+## 🚀 アプリストアでダウンロード
 
 ![pr image](assets/images/lunatalk-pr.png)
 
-https://apps.apple.com/us/app/lunatalk-ai-japanese-chat-app/id6744715809
-https://play.google.com/store/apps/details?id=com.miadesign.lunaTalk&pli=1
+**Apple App Store** [![Download on the App Store](https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg)](https://apps.apple.com/us/app/lunatalk-ai-japanese-chat-app/id6744715809)
+**Google Play** [![Get it on Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.miadesign.lunaTalk&pli=1)
